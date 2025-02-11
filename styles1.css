@@ -1,0 +1,46 @@
+.pH.level:nth-child(1) {
+    background-color: #ff9999;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+.pH.level:nth-child(2) {
+    background-color: #ffff99;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+.pH.level:nth-child(3) {
+    background-color: #99ccff;
+    text-align: center;
+    padding: 10px;  
+    margin: 0px;
+}
+
+.pH.level:nth-child(4) {
+    background-color: #99cc99; 
+    text-align: center;
+    padding: 10px;  
+    margin: 0px;
+}
+
+.pH.level:nth-child(5) {
+    background-color: #66cc66;
+    text-align: center;
+    padding: 10px;  
+    margin: 0px;
+}
+
+.pH.level:nth-child(6) {
+    background-color: #339933; 
+    text-align: center;
+    padding: 10px;  
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #0f0a07;
+}
